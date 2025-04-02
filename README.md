@@ -1,2 +1,4 @@
 # PowerBI_ENGETO_project
-discord: deri_cze (Vojtěch D.)
+V tomto projektu je vytvořen PowerBI report, který využívá data z předešlého SQL projektu.
+Na první straně reportu je zobrazena analýza HDP na osobu v letech 2006 až 2018 ve vybraných evropských zemích. Geograficky je Evropa rozdělena do čtyř skupin na jižní, severní, východní a západní Evropu. Data jsou zobrazena ve sloupcovém grafu a v matici. Pro větší přehled je přidáno i měřidlo a mapa.
+Druhá strana reportu kombinuje HDP, HDP na osobu, velikost populace a dobu dožití ve výše zmíněných letech a zemích. Zde jsou mimo sloupcových grafů zobrazeny také složené spojnicové grafy. Na obou stránkách jsou prvky interaktivní, kde si uživatel může filtrovat mezi jednotlivými roky a seskupenými či samostatnými zeměmi.
